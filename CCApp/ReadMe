@@ -1,0 +1,9 @@
+<READ ME, WINDOWS ONLY INSTRUCTIONS>
+1. Ensure local server is running
+2. On a browser, go to the following page: localhost/phpmyadmin
+3. Change the server drop down to MySQL, username is 'root' and password is blank if you haven't changed it. Log in
+4. Create a database called returnsdb, don't worry about changing other settings
+5. Within this database, create a table called 'returns', with four columns: id (Auto-Increment this), date and reason. 
+6. Within the master server folder, create a folder called 'CCApp'. The master folder is usuall located in the following path if you installed on Windows: C:\wamp64\www.
+7. Save the files I have sent you in this folder
+8. On a browser, go to the following page: localhost/CCApp and you will see the simple application I have created.
